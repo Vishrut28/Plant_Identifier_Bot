@@ -34,7 +34,7 @@ OR
 
 * Clone this repository using
 ```sh
-$ git clone https://github.com/amit-y11/plant_identifier
+$ https://github.com/Vishrut28/Plant_Identifier_Bot.git
 ```
 * Enter the directory and install all the requirements using
 ```sh
