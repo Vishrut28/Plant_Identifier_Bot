@@ -34,7 +34,7 @@ OR
 
 * Clone this repository using
 ```sh
-$ https://github.com/Vishrut28/Plant_Identifier_Bot.git
+$ git clone https://github.com/Vishrut28/Plant_Identifier_Bot.git
 ```
 * Enter the directory and install all the requirements using
 ```sh
